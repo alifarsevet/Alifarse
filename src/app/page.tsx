@@ -39,7 +39,7 @@ export default function Home() {
               </a>
 
               <a
-                href="https://wa.me/51998901343"
+                href="https://wa.me/51918654556"
                 target="_blank"
                 className="bg-green-600 hover:bg-green-700 text-white px-5 py-3 rounded-lg text-sm"
               >

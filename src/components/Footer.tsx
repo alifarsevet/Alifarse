@@ -35,7 +35,7 @@ export default function Footer() {
               <FaTiktok size={14} />
             </a>
 
-            <a href="https://wa.me/51998901343" className="p-2 bg-gray-900 hover:bg-green-500 transition rounded-full">
+            <a href="https://wa.me/51918654556" className="p-2 bg-gray-900 hover:bg-green-500 transition rounded-full">
               <FaWhatsapp size={14} />
             </a>
 
@@ -95,7 +95,7 @@ export default function Footer() {
           </p>
 
           <p className="text-sm text-gray-400 mt-2">
-            📞 +51 998 901 343
+            📞 +51 918 654 556
           </p>
 
           <p className="text-sm text-gray-400 mt-2">
