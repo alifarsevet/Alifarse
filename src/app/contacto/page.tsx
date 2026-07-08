@@ -86,7 +86,7 @@ export default function ContactoPage() {
                     WhatsApp
                   </h3>
                   <p className="text-gray-600">
-                    +51 998 901 343
+                    +51 918 654 556
                   </p>
                 </div>
 
@@ -126,7 +126,7 @@ export default function ContactoPage() {
               </div>
 
               <a
-                href="https://wa.me/51998901343"
+                href="https://wa.me/51918654556"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block mt-10 bg-green-600 text-white px-8 py-4 rounded-xl"
